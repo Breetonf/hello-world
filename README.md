@@ -1,6 +1,10 @@
 # hello-world
 Just another repo
 
-Primera modificación!
-Edit 1.
-Otra modificacion.
+Area 1:
+
+
+Area 2:
+
+
+Area 3:
