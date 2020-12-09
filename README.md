@@ -5,7 +5,7 @@ Area 1:
 En esta branch he editado el 1.
 
 Area 2:
-
+En esta branch he editado el 2.
 
 Area 3:
 Edicion de area 3.
